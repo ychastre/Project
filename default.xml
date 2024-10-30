@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+  <remote fetch="https://github.com/ychastre" name="ychastre"/>
+  
+  <project name="CanOS"         path="MiddleWare/CanOS"   remote="ychastre"   revision="main"/>
+  <project name="DriverModel"   path="BSP/DriverModel"    remote="ychastre"   revision="main"/>
+</manifest>
